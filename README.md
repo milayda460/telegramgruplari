@@ -12,7 +12,9 @@ https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=tr
 https://apps.apple.com/us/app/telegram-messenger/id686449807
 
 
-TELEGRAM GRUBUMUZ
-https://t.me/joinchat/NZqvrU7Mq5I70cLhV2kkXw
+
+## Film & Dizi Gruplarımız:
+* [Yabanci Dizi Film](https://t.me/joinchat/NZqvrU7Mq5I70cLhV2kkXw)
+* [Film Listesi](https://t.me/filmlistesi)
 
 <img src="https://miro.medium.com/max/320/0*-IuoC_iWYTUOujKR.jpg" alt="Telegram Grubu" width="420" height="420">
